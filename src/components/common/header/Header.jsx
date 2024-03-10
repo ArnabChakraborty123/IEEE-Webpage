@@ -16,7 +16,7 @@ const Header = () => {
               <Link to='/'>Home</Link>
             </li>
             <li>
-              <Link to='/courses'>All Courses</Link>
+              <Link to='/joining'>Join IEEE</Link>
             </li>
             <li>
               <Link to='/about'>About</Link>
@@ -25,10 +25,10 @@ const Header = () => {
               <Link to='/team'>Team</Link>
             </li>
             <li>
-              <Link to='/pricing'>Pricing</Link>
+              <Link to='/Awards'>Awards</Link>
             </li>
             <li>
-              <Link to='/journal'>Journal</Link>
+              <Link to='/event'>Events</Link>
             </li>
             <li>
               <Link to='/contact'>Contact</Link>

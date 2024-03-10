@@ -1,19 +1,19 @@
 import React from "react"
 import Back from "../common/back/Back"
-import BlogCard from "./BlogCard"
-import "./blog.css"
+import EventCard from "./EventCard"
+import "./event.css"
 
-const Blog = () => {
+const Event = () => {
   return (
     <>
-      <Back title='Blog Posts' />
+      <Back title='IEEE EVENTS' />
       <section className='blog padding'>
         <div className='container grid2'>
-          <BlogCard />
+          <EventCard />
         </div>
       </section>
     </>
   )
 }
 
-export default Blog
+export default Event;

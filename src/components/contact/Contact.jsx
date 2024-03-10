@@ -10,8 +10,8 @@ const Contact = () => {
       <section className='contacts padding'>
         <div className='container shadow flexSB'>
           <div className='left row'>
-            <iframe src={map}></iframe>
-          </div>
+          <iframe title='Map' src={map}></iframe>
+                    </div>
           <div className='right row'>
             <h1>Contact us</h1>
             <p>We're open for any suggestion or just to have a chat</p>

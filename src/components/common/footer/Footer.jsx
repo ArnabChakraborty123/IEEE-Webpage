@@ -8,7 +8,7 @@ const Footer = () => {
       <section className='newletter'>
         <div className='container flexSB'>
           <div className='left row'>
-            <h1>Newsletter - Stay tune and get the latest update</h1>
+            <h1>Stay tune and get the latest update</h1>
             <span>Far far away, behind the word mountains</span>
           </div>
           <div className='right row'>
@@ -20,8 +20,8 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
-            <span>ONLINE EDUCATION & LEARNING</span>
+            <h1>IEEE-HITK</h1>
+            <span>Advance Technology for humanity</span>
             <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 
             <i className='fab fa-facebook-f icon'></i>

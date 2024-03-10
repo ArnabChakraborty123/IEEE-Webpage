@@ -2,20 +2,20 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Advancement of Microwave Theory and Technology",
+    desc: "The IEEE Microwave Theory and Technology Society (MTT-S) boasts a global membership exceeding 10,500 individuals and spans 190 chapters worldwide. Dedicated to advancing microwave theory and its applications, including RF, microwave, millimeter-wave, and terahertz technologies, the MTT-S has been at the forefront of innovation for over 70 years. Through a myriad of activities such as conferences, workshops, tutorials, technical committees, and chapter meetings, the society fosters professional development and knowledge dissemination in the field. With its world-class publications and conferences, the MTT-S serves as a pivotal platform for networking and collaboration among industry experts and practitioners.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Professional Development and Networking Opportunities",
+    desc: "The MTT-S offers unparalleled opportunities for professional development and networking. Through its comprehensive range of activities and programs, members gain access to a global network of experienced innovators, experts, and practitioners. Whether through participation in conferences, workshops, or volunteer programs, members have the chance to enhance their critical, non-technical skills, facilitating greater professional effectiveness. The society's commitment to excellence and its all-volunteer ethos ensure that members are actively engaged in shaping the future of microwave technology.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Global Leadership in RF and Microwave Engineering",
+    desc: "At the heart of the MTT-S's mission is its dedication to serving as the global focal point for the promotion of the RF and microwave engineering profession. With a commitment to advancing and distributing knowledge, the society upholds the highest standards of excellence in its peer-reviewed publications and world-class conferences. By providing a forum for microwave engineers to understand, influence, and contribute to the advancement of microwave technology, the MTT-S empowers its members to drive innovation and shape the future of the industry. Through active participation and leadership, the society continues to lead the way in advancing RF and microwave engineering on a global scale.",
   },
 ]
 export const awrapper = [
@@ -41,238 +41,53 @@ export const awrapper = [
     title: "COURSES",
   },
 ]
-export const coursesCard = [
-  {
-    id: 1,
-    cover: "../images/courses/c1.png",
-    coursesName: "Introducing to Software Engineering",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by John Smith",
-        totalTime: "50 lectures (190 hrs)",
-      },
-    ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
-  },
-  {
-    id: 2,
-    cover: "../images/courses/c2.png",
-    coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
-      },
-    ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
-  },
-  {
-    id: 3,
-    cover: "../images/courses/c3.png",
-    coursesName: "HTML, CSS, and Javascript for Web Developers",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Saroj Nepal",
-        totalTime: "50 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
-  },
-  {
-    id: 4,
-    cover: "../images/courses/c4.png",
-    coursesName: "Introducing to Programming with WordPress",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Prabin Thapa Mager",
-        totalTime: "20 lectures (20 hrs)",
-      },
-    ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
-  },
-  {
-    id: 5,
-    cover: "../images/courses/c5.png",
-    coursesName: "Introducing to Programming with ReactJS",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "100 lectures (150 hrs)",
-      },
-    ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
-  },
-  {
-    id: 6,
-    cover: "../images/courses/c6.png",
-    coursesName: "Learn Frontend Programming Language",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "200 lectures (300 hrs)",
-      },
-    ],
-    priceAll: "$500 All Course",
-    pricePer: "$80 per month",
-  },
-  {
-    id: 7,
-    cover: "../images/courses/c7.png",
-    coursesName: "Introducing to with HTML / CSS",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Price",
-        totalTime: "20 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
-  },
-  {
-    id: 8,
-    cover: "../images/courses/c8.png",
-    coursesName: "Introducing to with JAVA",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "80 lectures (200 hrs)",
-      },
-    ],
-    priceAll: "$200 All Course",
-    pricePer: "$40 per month",
-  },
-  {
-    id: 9,
-    cover: "../images/courses/c9.png",
-    coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "50 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
-  },
-]
-export const online = [
-  {
-    cover: "./images/courses/online/o1.png",
-    hoverCover: "./images/courses/online/o1.1.png",
-    courseName: "UI/UX Design Courses",
-    course: "25 Courses",
-  },
-  {
-    cover: "./images/courses/online/o2.png",
-    hoverCover: "./images/courses/online/o2.1.png",
-    courseName: "Art & Design",
-    course: "25 Courses",
-  },
-  {
-    cover: "./images/courses/online/o3.png",
-    hoverCover: "./images/courses/online/o3.1.png",
-    courseName: "Computer Science",
-    course: "10 Courses",
-  },
-  {
-    cover: "./images/courses/online/o4.png",
-    hoverCover: "./images/courses/online/o4.1.png",
-    courseName: "History & Archeologic",
-    course: "15 Courses",
-  },
-  {
-    cover: "./images/courses/online/o5.png",
-    hoverCover: "./images/courses/online/o5.1.png",
-    courseName: "Software Engineering",
-    course: "30 Courses",
-  },
-  {
-    cover: "./images/courses/online/o6.png",
-    hoverCover: "./images/courses/online/o6.1.png",
-    courseName: "Information Software",
-    course: "60 Courses",
-  },
-  {
-    cover: "./images/courses/online/o7.png",
-    hoverCover: "./images/courses/online/o7.1.png",
-    courseName: "Health & Fitness",
-    course: "10 Courses",
-  },
-  {
-    cover: "./images/courses/online/o8.png",
-    hoverCover: "./images/courses/online/o8.1.png",
-    courseName: "Marketing",
-    course: "30 Courses",
-  },
-  {
-    cover: "./images/courses/online/o9.png",
-    hoverCover: "./images/courses/online/o9.1.png",
-    courseName: "Graphic Design",
-    course: "80 Courses",
-  },
-  {
-    cover: "./images/courses/online/o10.png",
-    hoverCover: "./images/courses/online/o10.1.png",
-    courseName: "Music",
-    course: "120 Courses",
-  },
-  {
-    cover: "./images/courses/online/o11.png",
-    hoverCover: "./images/courses/online/o11.1.png",
-    courseName: "Business Administration",
-    course: "17 Courses",
-  },
-  {
-    cover: "./images/courses/online/o12.png",
-    hoverCover: "./images/courses/online/o12.1.png",
-    courseName: "Web Management",
-    course: "17 Courses",
-  },
-]
+
+ 
 export const team = [
   {
     cover: "./images/team/t1.webp",
-    name: "Ph.D Adrian Molises",
-    work: "DEVELOPER AND LEAD INSTRUCTOR",
+    name: "Aryan Basu",
+    work: "Chair Person",
+    email: "aryan.basu.ece24@heritageit.edu.in"
+  },
+  {
+    cover: "./images/team/t1.webp",
+    name: "Rupam Jana",
+    work: "Webdevoloper",
+    email: "rupam.jana.ece24@heritageit.edu.in"
+
   },
   {
     cover: "./images/team/t2.webp",
-    name: "Ph.D Arthur MaGregor",
-    work: "DEVELOPER AND LEAD INSTRUCTOR",
+    name: "Saumik Sarkar",
+    work: "Webdevolper",
+    email: "saumik.sarkar.ece24@heritageit.edu.in"
+
   },
   {
     cover: "./images/team/t3.webp",
-    name: "Ph.D Anna Hanzen",
-    work: "DEVELOPER AND LEAD INSTRUCTOR",
+    name: "Taniya Kundu",
+    work: "Creative Contributor",
+    email: "taniya.kundu.ece24@heritageit.edu.in"
+
   },
   {
     cover: "./images/team/t4.webp",
-    name: "Ph.D Brian Wooden",
-    work: "DEVELOPER AND LEAD INSTRUCTOR",
+    name: "Suman Dey",
+    work: "Creative Contributor",
+    email:"suman.dey.ece24@heritageit.edu.in"
   },
   {
     cover: "./images/team/t5.webp",
-    name: "Ph.D Adrian Molises",
-    work: "DEVELOPER AND LEAD INSTRUCTOR",
+    name: "Saikat Mitra",
+    work: "Creative Contributor",
+    email:"saikat.mitra.ece24@heritageit.edu.in"
   },
   {
     cover: "./images/team/t6.webp",
-    name: "Ph.D Arthur MaGregor",
-    work: "DEVELOPER AND LEAD INSTRUCTOR",
+    name: "Md Tahseen Jawed",
+    work: "Publicity Coordinator",
+    email:"md.tahsenjawed.ece24@heritageit.edu.in"
   },
   {
     cover: "./images/team/t7.webp",
@@ -285,28 +100,7 @@ export const team = [
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
 ]
-export const price = [
-  {
-    name: "BASIC PLAN",
-    price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-  },
-  {
-    name: "BEGINNER PLAN",
-    price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-  },
-  {
-    name: "PREMIUM PLAN",
-    price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-  },
-  {
-    name: "ULTIMATE PLAN",
-    price: "149K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-  },
-]
+
 export const faq = [
   {
     title: "How to Enroll This Online Courses?",
@@ -337,71 +131,83 @@ export const blog = [
   {
     id: 1,
     type: "admin",
-    date: "JAN. 18, 2021",
-    com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    date: "9th November 2022",
+    time:"2:30 p.m",
+    location:" Heritage Institute of Technology, Kolkata",
+
+    title: " Technological Challenges and Innovations in 6th Generation Mobile Wireless Communication",
+    desc: "Explore interactive technical sessions organized by the ECE Department of Heritage Institute of Technology and the IEEE Microwave Theory and Techniques Society HITK Student Branch Chapter. Engage with experts, share ideas, and gain valuable insights into the evolving landscape of mobile wireless communication.",
     cover: "../images/blog/b1.webp",
   },
   {
     id: 2,
     type: "admin",
-    date: "API. 25, 2022",
-    com: "5 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
+    date: "9th November 2022",
+    time:"2:30 p.m",
+    location:" Heritage Institute of Technology, Kolkata",
+
+    title: " Technological Challenges and Innovations in 6th Generation Mobile Wireless Communication",
+    desc: "Explore interactive technical sessions organized by the ECE Department of Heritage Institute of Technology and the IEEE Microwave Theory and Techniques Society HITK Student Branch Chapter. Engage with experts, share ideas, and gain valuable insights into the evolving landscape of mobile wireless communication.",
+    cover: "../images/blog/b1.webp",
   },
   {
     id: 3,
-    type: "user",
-    date: "MAY. 15, 2022",
-    com: "10 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b3.webp",
+    type: "admin",
+    date: "9th November 2022",
+    time:"2:30 p.m",
+    location:" Heritage Institute of Technology, Kolkata",
+
+    title: " Technological Challenges and Innovations in 6th Generation Mobile Wireless Communication",
+    desc: "Explore interactive technical sessions organized by the ECE Department of Heritage Institute of Technology and the IEEE Microwave Theory and Techniques Society HITK Student Branch Chapter. Engage with experts, share ideas, and gain valuable insights into the evolving landscape of mobile wireless communication.",
+    cover: "../images/blog/b1.webp",
   },
   {
     id: 4,
     type: "admin",
-    date: "JAN. 02, 2022",
-    com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b4.webp",
+    date: "9th November 2022",
+    time:"2:30 p.m",
+    location:" Heritage Institute of Technology, Kolkata",
+
+    title: " Technological Challenges and Innovations in 6th Generation Mobile Wireless Communication",
+    desc: "Explore interactive technical sessions organized by the ECE Department of Heritage Institute of Technology and the IEEE Microwave Theory and Techniques Society HITK Student Branch Chapter. Engage with experts, share ideas, and gain valuable insights into the evolving landscape of mobile wireless communication.",
+    cover: "../images/blog/b1.webp",
   },
   {
     id: 5,
     type: "admin",
-    date: "DEC. 14, 2022",
-    com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b5.webp",
+    date: "9th November 2022",
+    time:"2:30 p.m",
+    location:" Heritage Institute of Technology, Kolkata",
+
+    title: " Technological Challenges and Innovations in 6th Generation Mobile Wireless Communication",
+    desc: "Explore interactive technical sessions organized by the ECE Department of Heritage Institute of Technology and the IEEE Microwave Theory and Techniques Society HITK Student Branch Chapter. Engage with experts, share ideas, and gain valuable insights into the evolving landscape of mobile wireless communication.",
+    cover: "../images/blog/b1.webp",
   },
   {
     id: 6,
-    type: "user",
-    date: "JAN. 18, 2021",
-    com: "12 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b6.webp",
+    type: "admin",
+    date: "9th November 2022",
+    time:"2:30 p.m",
+    location:" Heritage Institute of Technology, Kolkata",
+
+    title: " Technological Challenges and Innovations in 6th Generation Mobile Wireless Communication",
+    desc: "Explore interactive technical sessions organized by the ECE Department of Heritage Institute of Technology and the IEEE Microwave Theory and Techniques Society HITK Student Branch Chapter. Engage with experts, share ideas, and gain valuable insights into the evolving landscape of mobile wireless communication.",
+    cover: "../images/blog/b1.webp",
   },
 ]
 export const testimonal = [
   {
     id: 1,
-    name: "ROGER SCOTT",
+    name: "Dr Sayantani Dutta",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    email: "sayantani.datta@heritageit.edu",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    email: "soumya.chaterjee@heritageit.edu",
     cover: "./images/testo/t2.webp",
   },
   {

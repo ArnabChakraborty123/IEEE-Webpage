@@ -1,7 +1,7 @@
 import React from "react"
 import { blog } from "../../dummydata"
 
-const BlogCard = () => {
+const EventCard = () => {
   return (
     <>
       {blog.map((val) => (
@@ -14,6 +14,10 @@ const BlogCard = () => {
               <span>
                 <i className='fa fa-user'></i>
                 <label htmlFor=''>{val.type}</label>
+              </span>
+              <span>
+                <i className='fa fa-calendar-alt'></i>
+                <label htmlFor=''>{val.date}</label>
               </span>
               <span>
                 <i className='fa fa-calendar-alt'></i>
@@ -33,4 +37,4 @@ const BlogCard = () => {
   )
 }
 
-export default BlogCard
+export default EventCard

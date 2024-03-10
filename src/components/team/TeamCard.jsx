@@ -17,7 +17,8 @@ const TeamCard = () => {
           </div>
           <div className='details'>
             <h2>{val.name}</h2>
-            <p>{val.work}</p>
+            <h4>{val.work}</h4>
+            <p>{val.email}</p>
           </div>
         </div>
       ))}
