@@ -21,24 +21,24 @@ export const homeAbout = [
 export const awrapper = [
   {
     cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
-    data: "3,000",
-    title: "SUCCESS STORIES",
+    data: "+400",
+    title: "members",
   },
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
-    title: "TRUSTED TUTORS",
+    data: "2000",
+    title: "conferences",
   },
   {
     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-    data: "1,000",
-    title: "SCHEDULES",
+    data: "+300",
+    title: "local sections",
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-    data: "587",
-    title: "COURSES",
+    data: "10000",
+    title: "technical articels",
   },
 ]
 
@@ -199,14 +199,14 @@ export const testimonal = [
   {
     id: 1,
     name: "Dr Sayantani Dutta",
-    post: "MARKETING MANAGER",
+    post: "Electronics and Communication",
     email: "sayantani.datta@heritageit.edu",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
+    name: "Soumya Chaterjee",
+    post: "Electronics and Communication",
     email: "soumya.chaterjee@heritageit.edu",
     cover: "./images/testo/t2.webp",
   },

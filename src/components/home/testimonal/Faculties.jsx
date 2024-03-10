@@ -21,6 +21,7 @@ const Faculties = () => {
                   <div className='name'>
                     <h2>{val.name}</h2>
                     <span>{val.post}</span>
+                    <h4>{val.email}</h4>
                   </div>
                 </div>
                 <p>{val.desc}</p>
